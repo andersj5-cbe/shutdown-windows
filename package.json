@@ -1,0 +1,17 @@
+{
+  "name": "shutdown-windows",
+  "version": "1.0.0",
+  "description": "shutdown windows computers by name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shutdown",
+    "windows",
+    "computer",
+    "remote"
+  ],
+  "author": "John Anderson",
+  "license": "ISC"
+}
